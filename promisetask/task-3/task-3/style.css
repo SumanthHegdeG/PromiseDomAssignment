@@ -1,0 +1,21 @@
+img {
+    max-width: 500px;
+    max-height: 500px;
+    min-width: 300px;
+    min-width: 300px;
+}
+
+.card {
+    width: fit-content;
+    height: fit-content;
+    align-self: center;
+    margin: 0;
+}
+
+#load {
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
